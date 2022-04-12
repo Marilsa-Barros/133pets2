@@ -1,0 +1,6 @@
+pet_id,category_id,category_name,name,tags_id,tags_name,status,status_code
+256921,1,dog,Miguel,1,vacinado,disponivel,200
+256922,2,cat,Biro,2,castrado,vendido,200
+256923,3,fish,Dore,0,,disponivel,200
+256924,2,cat,Princes,1,vacinado,disponivel,200
+256925,1,dog,Magaly,1,vacinado,vendido,200
